@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-arrow-key-canvas-navigation"
+description = "A ComfyUI Custom Node that enables arrow key canvas navigation with a pan speed setting."
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/codecringebinge/ComfyUI-Arrow-Key-Canvas-Navigation"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "codecringebinge"
+DisplayName = "ComfyUI-Arrow-Key-Canvas-Navigation"
+Icon = "https://avatars.githubusercontent.com/u/23065574"
