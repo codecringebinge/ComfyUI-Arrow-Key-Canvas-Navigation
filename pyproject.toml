@@ -9,6 +9,6 @@ Repository = "https://github.com/codecringebinge/ComfyUI-Arrow-Key-Canvas-Naviga
 #  Used by Comfy Registry https://comfyregistry.org
 
 [tool.comfy]
-PublisherId = ""
+PublisherId = "codecringebinge"
 DisplayName = "ComfyUI-Arrow-Key-Canvas-Navigation"
-Icon = ""
+Icon = "https://avatars.githubusercontent.com/u/23065574"
